@@ -31,3 +31,9 @@ while True:
     if  current_time==sending_time :
         type()
     continue
+    
+    
+    #Greetings from Azerbaijan :)
+    #i love you Can abi
+
+
