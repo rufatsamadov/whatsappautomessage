@@ -33,7 +33,5 @@ while True:
     continue
     
     
-    #Greetings from Azerbaijan :)
-    #i love you Can abi
 
 
